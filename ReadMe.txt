@@ -3,7 +3,7 @@ Contributors: TCR (http://www.thecellarroom.net)
 Donate link: http://www.thecellarroom.co.uk
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
 Requires at least: 2.0.2
-Tested up to: 1.0.1
+Tested up to: 3.4
 Stable tag: 1.3.0
 
 Adds a link to 'Pending', 'future' (scheduled) and 'Drafts' under the Posts
