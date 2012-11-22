@@ -23,7 +23,7 @@ modify, merge, publish, distribute, sublicense, and/or sell copies of the Softwa
 Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-<a href="../../Utility/functions.php"></a><a href="../../Utility/function-utility.php"></a><a href="../../Utility/function-generic.php"></a>
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
 OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
@@ -48,7 +48,7 @@ class TCR_QuickDraftsAccess {
 			if ( 'post' != $name ) // edit.php?post_type=post doesn't work
 				$path .= '?post_type=' . $name;
 			if ( ( $num_posts->draft > 0 ) || apply_filters( 'TCR_quick_drafts_access_show_if_empty', false, $name, $post_type ) )
-				add_submenu_page( $path, __( 'Drafts' ), sprintf( __( 'Drafts (%d)' ), $num_posts->draft ), $post_type->cap->edit_posts, "edit.php?post_type=$name&post_status=draft" );
+				add_submenu_page( $path, __( 'Drafts' ), sprintf( __( 'Drafts <span class="update-plugins" title="Drafts"><span class="update-count">%d</span></span>' ), $num_posts->draft ), $post_type->cap->edit_posts, "edit.php?post_type=$name&post_status=draft" );
 		}
 	}
 
@@ -77,7 +77,7 @@ class TCR_QuickPendingAccess {
 			if ( 'post' != $name ) // edit.php?post_type=post doesn't work
 				$path .= '?post_type=' . $name;
 			if ( ( $num_posts->pending > 0 ) || apply_filters( 'TCR_quick_Pending_access_show_if_empty', false, $name, $post_type ) )
-				add_submenu_page( $path, __( 'Pending' ), sprintf( __( 'Pending (%d)' ), $num_posts->pending ), $post_type->cap->edit_posts, "edit.php?post_type=$name&post_status=pending" );
+				add_submenu_page( $path, __( 'Pending' ), sprintf( __( 'Pending <span class="update-plugins" title="Pending"><span class="update-count">%d</span></span>' ), $num_posts->pending ), $post_type->cap->edit_posts, "edit.php?post_type=$name&post_status=pending" );
 		}
 	}
 }
@@ -104,7 +104,7 @@ class TCR_QuickfutureAccess {
 			if ( 'post' != $name ) // edit.php?post_type=post doesn't work
 				$path .= '?post_type=' . $name;
 			if ( ( $num_posts->future > 0 ) || apply_filters( 'TCR_quick_future_access_show_if_empty', false, $name, $post_type ) )
-				add_submenu_page( $path, __( 'future' ), sprintf( __( 'future (%d)' ), $num_posts->future ), $post_type->cap->edit_posts, "edit.php?post_type=$name&post_status=future" );
+				add_submenu_page( $path, __( 'Future' ), sprintf( __( 'Future <span class="update-plugins" title="Future"><span class="update-count">%d</span></span>' ), $num_posts->future ), $post_type->cap->edit_posts, "edit.php?post_type=$name&post_status=future" );
 		}
 	}
 }

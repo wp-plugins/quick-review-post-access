@@ -2,11 +2,11 @@
 Contributors: TCR (http://www.thecellarroom.net)
 Donate link: http://www.thecellarroom.co.uk
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
-Requires at least: 2.0.2
+Requires at least: 1.0.0
 Tested up to: 3.4
-Stable tag: 1.3.0
+Stable tag: 1.3.1
 
-Adds a link to 'Pending', 'future' (scheduled) and 'Drafts' under the Posts
+Adds a link to 'Pending', 'future' (scheduled) and 'Drafts' under the Posts admin menu.
 
 == Description ==
 
@@ -26,6 +26,9 @@ ask one?
 1. screenshot-1.png 
 
 == Changelog ==
+
+= 1.3.1 =
+* added styling to the numbers displayed, with thanks to WP Yoda for the nod.
 
 = 1.3.0 =
 * fixed screenshot, added header image
