@@ -2,11 +2,11 @@
 /**
  * @package Quick Review Post Access
  * @author The Cellar Room Limited
- * @version 1.3.0
+ * @version 1.3.2
  */
 /*
 Plugin Name: Quick Review Post Access
-Version: 1.3.0
+Version: 1.3.2
 Plugin URI: http://thecellarroom.co.uk
 Author: The Cellar Room Limited
 Author URI: http://www.thecellarroom.co.uk
@@ -15,7 +15,7 @@ Description: Adds a link to 'Pending', 'future' (scheduled) and 'Drafts' under t
 */
 
 /*
-Copyright (c) 2010 by The Cellar Room Limited
+Copyright (c) 2012 by The Cellar Room Limited
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy,
