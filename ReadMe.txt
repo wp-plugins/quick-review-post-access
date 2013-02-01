@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: TCR (http://www.thecellarroom.net)
-Donate link: http://www.thecellarroom.co.uk
+Donate link: http://www.thecellarroom.net/plugins/about.php
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
 Requires at least: 1.0.0
 Tested up to: 3.4
