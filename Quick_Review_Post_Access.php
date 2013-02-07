@@ -2,11 +2,11 @@
 /**
  * @package Quick Review Post Access
  * @author The Cellar Room Limited
- * @version 1.3.2
+ * @version 1.3.4
  */
 /*
 Plugin Name: Quick Review Post Access
-Version: 1.3.2
+Version: 1.3.4
 Plugin URI: http://thecellarroom.co.uk
 Author: The Cellar Room Limited
 Author URI: http://www.thecellarroom.co.uk
