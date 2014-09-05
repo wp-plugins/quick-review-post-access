@@ -1,12 +1,10 @@
 === Plugin Name ===
-Contributors: TCR, TheCellarRoom
-Donate link: http://www.thecellarroom.net/plugins/about.php
-License: GPL
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Requires at least: 3.0.1
-Tested up to: 3.5.1
-Stable tag: 1.3.4
+Contributors: TCR (http://www.thecellarroom.net)
+Donate link: http://www.thecellarroom.co.uk
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
+Requires at least: 1.0.0
+Tested up to: 4.0
+Stable tag: 1.3.5
 
 Adds a link to 'Pending', 'future' (scheduled) and 'Drafts' under the Posts admin menu.
 
@@ -29,9 +27,8 @@ ask one?
 
 == Changelog ==
 
-= 1.3.4 =
-* fix tag/branch
-* fixed tested up to version
+= 1.3.3 =
+* bump to 4.0
 
 = 1.3.2 =
 * fix tag/branch.
