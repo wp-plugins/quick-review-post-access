@@ -1,5 +1,6 @@
 === Plugin Name ===
-Contributors: TCR (http://www.thecellarroom.net)
+Contributors: TheCellarRoom (http://www.thecellarroom.net)
+Author: TheCellarRoom
 Donate link: http://www.gumroad.com/TheCellarRoom
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
 Requires at least: 1.0.0
