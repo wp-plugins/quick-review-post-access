@@ -2,7 +2,8 @@
 
 Plugin Name: Quick Review Post Access
 Plugin URI: http://wordpress.org/plugins/quick-review-post-access/
-Author: thecellarroom
+Contributors: thecellarroom
+Author: The Cellar Room
 Donate link: http://www.gumroad.com/TheCellarRoom
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
 Requires at least: 1.0.0
