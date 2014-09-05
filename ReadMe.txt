@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: TCR (http://www.thecellarroom.net)
-Donate link: http://www.thecellarroom.co.uk
+Donate link: http://www.gumroad.com/TheCellarRoom
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
 Requires at least: 1.0.0
 Tested up to: 4.0
@@ -27,8 +27,14 @@ ask one?
 
 == Changelog ==
 
-= 1.3.3 =
+= 1.3.5 =
 * bump to 4.0
+
+= 1.3.4 =
+* update links in readme
+
+= 1.3.3 =
+* trying to figure this thing out again
 
 = 1.3.2 =
 * fix tag/branch.
