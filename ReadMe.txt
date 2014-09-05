@@ -1,4 +1,6 @@
 === Plugin Name ===
+Plugin Name: Quick Review Post Access
+Plugin URI: http://wordpress.org/plugins/quick-review-post-access/
 Contributors: TheCellarRoom (http://www.thecellarroom.net)
 Author: TheCellarRoom
 Donate link: http://www.gumroad.com/TheCellarRoom
