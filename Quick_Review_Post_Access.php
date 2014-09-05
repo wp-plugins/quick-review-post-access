@@ -7,9 +7,9 @@
 /*
 Plugin Name: Quick Review Post Access
 Version: 1.3.5
-Plugin URI: http://thecellarroom.co.uk
+Plugin URI: http://thecellarroom.net
 Author: The Cellar Room Limited
-Author URI: http://www.thecellarroom.co.uk
+Author URI: http://thecellarroom.net
 Description: Adds a link to 'Pending', 'future' (scheduled) and 'Drafts' under the Posts, Pages, and other custom post type sections in the admin menu. Compatible with WordPress 3.0+.
 
 */
