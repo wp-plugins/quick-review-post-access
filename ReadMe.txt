@@ -8,7 +8,7 @@ Donate link: http://www.gumroad.com/TheCellarRoom
 Tags: Pending, future, scheduled, Drafts, Posts, Pages, access, quick, review
 Requires at least: 1.0.0
 Tested up to: 4.2
-Stable tag: 1.3.5
+Stable tag: 1.3.6
 
 Adds a link to 'Pending', 'future' (scheduled) and 'Drafts' under the Posts admin menu.
 
@@ -30,6 +30,9 @@ ask one?
 1. screenshot-1.png 
 
 == Changelog ==
+
+= 1.3.6 =
+* bump to 4.2
 
 = 1.3.5 =
 * bump to 4.0
